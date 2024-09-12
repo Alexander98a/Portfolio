@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(231, 236, 154);
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+.text {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul li {
+    list-style-position: inside;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
